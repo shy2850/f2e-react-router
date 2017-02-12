@@ -1,0 +1,1 @@
+$include['../node_modules/react-redux/dist/react-redux<%=request.data._build_?".min":""%>.js']

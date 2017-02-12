@@ -1,0 +1,1 @@
+$include['../node_modules/react-bootstrap/dist/react-bootstrap<%=request.data._build_?".min":""%>.js']
