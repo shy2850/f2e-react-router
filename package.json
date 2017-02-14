@@ -1,14 +1,15 @@
 {
-  "name": "flow-ai",
+  "name": "f2e-react-router",
   "version": "0.1.0",
-  "description": "flow ++ data show",
+  "description": "react-router base on f2e-server",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "flow",
-    "react"
+    "react",
+    "redux",
+    "react-router"
   ],
   "author": "shy2850",
   "license": "ISC",
@@ -20,6 +21,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "echarts": "^3.4.0",
     "lesshat": "^4.1.0",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
